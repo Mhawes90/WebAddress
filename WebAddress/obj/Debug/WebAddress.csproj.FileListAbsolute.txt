@@ -1,0 +1,10 @@
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\bin\Debug\WebAddress.exe.config
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\bin\Debug\WebAddress.exe
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\bin\Debug\WebAddress.pdb
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.Form1.resources
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.Properties.Resources.resources
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.csproj.GenerateResource.Cache
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.exe
+C:\Users\Chaos\source\repos\WebAddress\WebAddress\obj\Debug\WebAddress.pdb
